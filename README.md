@@ -1,5 +1,5 @@
 <h1>👋 About Me</h1>
-<p>Hi, I’m <strong>[Your Name]</strong>, an aspiring Data Analyst passionate about transforming raw data into actionable insights. I am currently honing my skills in <strong>Power BI</strong>, <strong>SQL</strong>, and <strong>Python</strong> to solve real-world data challenges and support data-driven decision-making.</p>
+<p>Hi, I’m <strong>Md. Rashedul Haque</strong>, an aspiring Data Analyst passionate about transforming raw data into actionable insights. I am currently honing my skills in <strong>Power BI</strong>, <strong>SQL</strong>, and <strong>Python</strong> to solve real-world data challenges and support data-driven decision-making.</p>
 
 <h2>🎯 Career Goals</h2>
 <p>I aim to transition into a data-focused career, leveraging my analytical skills to contribute to impactful projects in data analysis, visualization, and automation.</p>
